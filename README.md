@@ -1,4 +1,5 @@
 # RustSec Advisory Database
+[![security status](https://qa.meterian.com/badge/pb/f9d3ac33-ade4-4f98-b125-fa5ff530ebe4/security)](https://qa.meterian.com/projects/?pid=f9d3ac33-ade4-4f98-b125-fa5ff530ebe4) [![stability status](https://qa.meterian.com/badge/pb/f9d3ac33-ade4-4f98-b125-fa5ff530ebe4/stability)](https://qa.meterian.com/projects/?pid=f9d3ac33-ade4-4f98-b125-fa5ff530ebe4) [![licensing status](https://qa.meterian.com/badge/pb/f9d3ac33-ade4-4f98-b125-fa5ff530ebe4/licensing)](https://qa.meterian.com/projects/?pid=f9d3ac33-ade4-4f98-b125-fa5ff530ebe4)
 
 [![Build Status][build-image]][build-link]
 ![Maintained: Q1 2021][maintained-image]
